@@ -13,3 +13,13 @@
     color: white;
     font-size: 18px;
 }
+.todo{
+    background-color: blanchedalmond;
+    border-radius: 16px;
+    border: 2px solid peru;
+}
+.todo-attribute{
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
