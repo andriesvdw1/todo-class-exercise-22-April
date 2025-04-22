@@ -1,0 +1,24 @@
+.todo-container{
+    width: 80%;
+    justify-items: center;
+}
+.todo-form{
+    background-color: darkkhaki;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    justify-items: center;
+}
+
+.description-text{
+    height: 300px;
+    text-align: left;
+     
+}
+.add-todo-btn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16pt;
+    width: 70%;
+    padding: 20px;
+}
